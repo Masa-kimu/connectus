@@ -22,5 +22,5 @@
 XAMPP/MYSQL/PHP
 
 ## **データベース**
-データベース名：connectus
+データベース名：connectus<br>
 テーブル：connectus.sqlをお使いください。
